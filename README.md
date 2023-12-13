@@ -27,8 +27,7 @@ and love exploring new technologies. Some of the tools and technologies I freque
 # 📫 How to Reach Me
 You can connect with me on:
 
-[![LinkedIn]()](linkedin.com/in/yarin-ozeri)
-[Gmail](ozeriyarin@gmail.com)
+
 
 # 🤝 Let's Collaborate
 I'm open to collaborations, discussions, and new opportunities. Feel free to reach out if you're interested in working together or have any exciting ideas to share!
@@ -37,8 +36,7 @@ I'm open to collaborations, discussions, and new opportunities. Feel free to rea
 + I love history and often tell people about historical issues.
 + I'm a huge fan of Star Wars saga.
 
-# 📈 GitHub Stats
-![Your GitHub Stats](Your GitHub Stats Image Link)
+
 
 Thank you for visiting my GitHub profile! Let's create something amazing together! 🚀✨
 
