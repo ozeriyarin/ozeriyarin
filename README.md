@@ -40,7 +40,7 @@ You can connect with me on:
 I'm open to collaborations, discussions, and new opportunities. Feel free to reach out if you're interested in working together or have any exciting ideas to share!
 
 # 🌟 Fun Facts
-+ I love history and often tell people about historical issues.
++ I love history and often tell people about historical facts.
 + I'm a huge fan of Star Wars saga.
 
 # 📈 GitHub Stats
