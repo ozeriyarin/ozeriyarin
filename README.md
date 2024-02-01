@@ -12,7 +12,7 @@ I'm currently focusing on AR application, where I'm building a navigation app of
 I'm dedicated to enhancing my skills in kotlin and AR. Currently, I'm diving deeper into kotlin to expand my knowledge and capabilities.
 
 # 💡 Goals for the Future
-In the coming months, I plan to keep studing and finish my project. I'm excited about the possibilities and eager to learn more new technologies and sharpen my skills .
+In the coming months, I plan to keep studying and finish my project. I'm excited about the possibilities and eager to learn more new technologies and sharpen my skills .
 
 # 🔧 Technologies & Tools
 I work with kotlin | AR core | android studio
