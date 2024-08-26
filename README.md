@@ -1,8 +1,7 @@
 ### Welcome to my GitHub profile !👋
 
 # About Me
-I'm Yarin Ozeri, a passionate second-year Computer Science B.Sc student who loves development. I believe in the power of technology to transform the world and enjoy exploring new concepts, solving problems, and collaborating on exciting projects.
-
+I'm Yarin Ozeri, a passionate third-year Computer Science B.Sc student who loves development. I believe in the power of technology to transform the world and enjoy exploring new concepts, solving problems, and collaborating on exciting projects. Seeking opportunities to apply my skills in innovative projects
 <img src = https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966 width = 25% height = 25% align = "right">
 
  # 🚀 What I'm Currently Working On
