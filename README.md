@@ -2,19 +2,20 @@
 
 # About Me
 I'm Yarin Ozeri, a passionate third-year Computer Science B.Sc student who loves development. I believe in the power of technology to transform the world and enjoy exploring new concepts, solving problems, and collaborating on exciting projects. Seeking opportunities to apply my skills in innovative projects
+
 <img src = https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966 width = 25% height = 25% align = "right">
 
  # 🚀 What I'm Currently Working On
-I'm currently focusing on AR application, where I'm building a navigation app of my campus. This project aims to help future students navigate easily in the campus.
+I'm currently focusing on building a smart home system, where I'm integrating sensors and dedicated chips throughout my home. This project aims to establish a server that communicates with these devices and provides real-time control and monitoring through a mobile application.
 
 # 🌱 What I'm Learning
-I'm dedicated to enhancing my skills in kotlin and AR. Currently, I'm diving deeper into kotlin to expand my knowledge and capabilities.
+I'm dedicated to enhancing my skills in Python and Machine Learning . Currently, I'm diving deeper into python to expand my knowledge and capabilities.
 
 # 💡 Goals for the Future
 In the coming months, I plan to keep studying and finish my project. I'm excited about the possibilities and eager to learn more new technologies and sharpen my skills .
 
 # 🔧 Technologies & Tools
-I work with kotlin | AR core | android studio
+I'm working with Python | Raspberry pi 4 | Linux | C
 and love exploring new technologies. Some of the tools and technologies I frequently use include:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
