@@ -5,6 +5,19 @@ I'm Yarin Ozeri, a passionate third-year Computer Science B.Sc student who loves
 
 <img src = https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966 width = 25% height = 25% align = "right">
 
+# 🗂️ My GitHub Organizations
+
+Alongside my main work, I keep my code organized inside a few GitHub organizations.  
+Each one groups a different type of project or experiments I've built over time.
+
+### 🔹 Yarin’s Small Projects  
+A collection of small Python scripts, exercises, and quick experiments that I build while learning or testing ideas.  
+👉 https://github.com/Yarin-small-projects
+
+### 🔹 AR-Smart-Navigation-Campus 
+A kotlin application for AR navigation
+👉 https://github.com/AR-Smart-Navigation-Campus
+
  # 🚀 What I'm Currently Working On
 I'm currently focusing on building a smart home system, where I'm integrating sensors and dedicated chips throughout my home. This project aims to establish a server that communicates with these devices and provides real-time control and monitoring through a mobile application.
 
