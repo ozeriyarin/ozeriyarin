@@ -15,7 +15,7 @@ A collection of small Python scripts, exercises, and quick experiments that I bu
 👉 https://github.com/Yarin-small-projects
 
 ### 🔹 AR-Smart-Navigation-Campus 
-A kotlin application for AR navigation
+A kotlin application for AR navigation.
 👉 https://github.com/AR-Smart-Navigation-Campus
 
  # 🚀 What I'm Currently Working On
